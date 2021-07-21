@@ -10,12 +10,9 @@ wp-includes/
 # "mu-plugins", "plugins", "themes" directory
 wp-content/*
 #!wp-content/mu-plugins/
-#!wp-content/plugins/
-!wp-content/plugins/listeo-core/
-!wp-content/plugins/listeo-forms-and-fields-editor/
-#!wp-content/themes/
-!wp-content/themes/listeo-child/
-!wp-content/themes/listeo/
+!wp-content/plugins/
+!wp-content/themes/
+
 
 # ignore these plugins
 #wp-content/plugins/hello.php
